@@ -21,7 +21,7 @@ Great, we are now ready for business.
 
 ## Get all To Do's
 
-Send a GET Request on ```http://localhost:3000/todos``` and all puppies will be returned in the order they were made.
+Send a GET Request on ```http://localhost:3000/todos``` and all To Do's will be returned in the order they were made.
 
 ## Get a specific To Do
 
@@ -39,7 +39,7 @@ description: String
 
 The full HTTP request should look something like this:
 
-`http://localhost:3000/puppies?name=:name&gender=:gender&breed=:breed&age=:age`
+`http://localhost:3000/todos?name=:name&gender=:gender&breed=:breed&age=:age`
 
 Great.
 
