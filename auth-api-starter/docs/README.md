@@ -15,7 +15,7 @@ from there, you can start the server by doing one of these:
 ```
 npm start
 ```
-Great, we are now ready for business. Or whatever puppies do.
+Great, we are now ready for business.
 
 # To DO's
 
