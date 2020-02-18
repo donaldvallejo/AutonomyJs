@@ -25,7 +25,7 @@ Send a GET Request on ```http://localhost:3000/todos``` and all To Do's will be 
 
 ## Get a specific To Do
 
-Send a GET Request on  ```http://localhost:3000/todos/:enterIdHere``` to recieve the Puppy whose ID you specified.
+Send a GET Request on  ```http://localhost:3000/todos/:enterIdHere``` to recieve the To Do whose ID you specified.
 
 ## Create a new To Do
 
